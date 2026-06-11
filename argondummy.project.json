@@ -2,6 +2,9 @@
   "name": "argondummy",
   "tree": {
     "$className": "DataModel",
+    "Workspace": {
+      "$path": "src/Workspace"
+    },
     "ReplicatedFirst": {
       "$path": "src/ReplicatedFirst"
     },
@@ -21,20 +24,12 @@
       "$path": "src/StarterPack"
     },
     "StarterPlayer": {
-      "$properties": {
-        "CameraMaxZoomDistance": 128,
-        "CharacterBreakJointsOnDeath": false,
-        "CharacterUseJumpPower": false
-      },
       "StarterCharacterScripts": {
         "$path": "src/StarterPlayer/StarterCharacterScripts"
       },
       "StarterPlayerScripts": {
         "$path": "src/StarterPlayer/StarterPlayerScripts"
       }
-    },
-    "Workspace": {
-      "$path": "src/Workspace"
     }
   }
 }

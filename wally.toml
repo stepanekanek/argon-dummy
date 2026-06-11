@@ -1,1 +1,11 @@
+[package]
+name = "exelerantt/myfirstargonproject"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+private = true
+
+[dependencies]
+
 [server-dependencies]
+ForceR6 = "exelerantt/forcer6@0.1.52"

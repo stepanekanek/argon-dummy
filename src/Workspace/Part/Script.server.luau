@@ -1,3 +1,3 @@
-const rep = game:GetService("ReplicatedStorage")
+-- const rep = game:GetService("ReplicatedStorage")
 
-rep.
+-- rep.
